@@ -27,6 +27,8 @@ modifications. With dotjs, just add or edit files in
 `~/.js`.
 
 ## Example
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdotjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdotjs?ref=badge_shield)
+
 
     $ cat ~/.js/github.com.js
     // swap github logo with trollface
@@ -107,3 +109,7 @@ http://bit.ly/dotjs
 - [Firefox Add-on](https://github.com/rlr/dotjs-addon)
 - [Safari Extension](https://github.com/wfarr/dotjs.safariextension)
 - [Fluid UserScript](https://github.com/sj26/dotjs-fluid)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdotjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdotjs?ref=badge_large)
